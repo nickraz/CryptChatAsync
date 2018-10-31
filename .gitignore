@@ -1,0 +1,16 @@
+*.exe
+
+*.obj
+
+*.sln
+
+*.pdb
+*.csproj
+*.cache
+/bin
+/obj
+/Properties
+/CryptChatAsync
+*.resx
+*.suo
+*.config
